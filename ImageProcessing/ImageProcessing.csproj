@@ -5,4 +5,9 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Dianoga.ImageMagick" Version="1.2.4" />
+    <PackageReference Include="Magick.NET-Q16-AnyCPU" Version="7.4.5" />
+  </ItemGroup>
+
 </Project>
